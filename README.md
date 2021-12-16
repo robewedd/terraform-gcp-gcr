@@ -1,5 +1,7 @@
 <a href="https://lacework.com"><img src="https://techally-content.s3-us-west-1.amazonaws.com/public-content/lacework_logo_full.png" width="600"></a>
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/f28c55b1-df73-4ea9-a591-f2249ea5461e.svg)](https://app.soluble.cloud/repos/details/github.com/robewedd/terraform-gcp-gcr)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/bc185756-bb91-4501-8c88-1b98b1f15309.svg)](https://app.soluble.cloud/repos/details/github.com/robewedd/terraform-gcp-gcr)  
+
 # terraform-gcp-gcr
 
 [![GitHub release](https://img.shields.io/github/release/lacework/terraform-gcp-gcr.svg)](https://github.com/lacework/terraform-gcp-gcr/releases/)
